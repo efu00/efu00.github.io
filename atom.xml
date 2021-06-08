@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-08T11:26:34.623Z</updated>
+    <updated>2021-06-08T11:27:33.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -10,16 +10,6 @@
     <logo>https://evanfu.ml/images/avatar.png</logo>
     <icon>https://evanfu.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[高考加油@沈炜]]></title>
-        <id>https://evanfu.ml/post/gao-kao-jia-you-shen-wei/</id>
-        <link href="https://evanfu.ml/post/gao-kao-jia-you-shen-wei/">
-        </link>
-        <updated>2021-06-08T11:25:15.000Z</updated>
-        <content type="html"><![CDATA[<p>@颜控沈炜，在线用vivo美颜!<br>
-<img src="https://z3.ax1x.com/2021/06/08/2rOZOP.jpg" alt="2rOZOP.jpg" loading="lazy"></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[CSGO最新otc3注入器+dll]]></title>
         <id>https://evanfu.ml/post/1/</id>
