@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-09T04:38:26.270Z</updated>
+    <updated>2021-06-09T04:40:23.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -68,8 +68,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vd3d3Lm1hdHRrYXlkaWFyeS5jb218
 <p>v2ray(若无法更新请开启代理后再拉取)：https://drive.google.com/uc?export=download&amp;id=1cnNHnhqQO6zqSQqhmt6XraIZixKRtaK5</p>
 <p>clash(若无法更新请开启代理后再拉取)：https://drive.google.com/uc?export=download&amp;id=1hLyUr5zaPCv2KKwCWPkqa7CjY7ZFLbRO</p>
 <h2 id="ios">ios</h2>
-<p>Quantumult(若无法更新请开启代理后再拉取)：https://v1.mk/8r7wob8</p>
-<p>Quantumult X(若无法更新请开启代理后再拉取)：https://v1.mk/pvZiSXH</p>
+<p>Quantumult(若无法更新请开启代理后再拉取)：https://v1.mk/JgLeNV6</p>
+<p>Quantumult X(若无法更新请开启代理后再拉取)：https://v1.mk/G96oMxl</p>
 ]]></content>
     </entry>
     <entry>
