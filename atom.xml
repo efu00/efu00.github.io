@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-09T11:05:01.616Z</updated>
+    <updated>2021-06-09T11:50:02.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
-    <subtitle>&lt;p style=&quot;text-align:center;padding-top:5px;&quot;&gt;本站运行：&lt;span id=&quot;days&quot;&gt;0&lt;/span&gt;天
+    <subtitle>&lt;p style=&quot;text-align:center;padding-top:5px;&quot;&gt;本站勉强运行：&lt;span id=&quot;days&quot;&gt;0&lt;/span&gt;天
 &lt;/p&gt;
 &lt;script&gt;
 	var s1 = &apos;2021-05-01&apos;;
