@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-11T14:51:21.049Z</updated>
+    <updated>2021-06-11T14:51:55.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -24,7 +24,7 @@
 <li>生活可以是甜的，也可以是苦的，但不能是没味的。你可以胜利，也可以失败，但你不能屈服</li>
 </ul>
 <!-- more -->
-<p>[<img src="https://z3.ax1x.com/2021/06/11/2hvz5Q.md.jpg" alt="2hvz5Q.md.jpg" loading="lazy">]</p>
+<figure data-type="image" tabindex="1"><img src="https://z3.ax1x.com/2021/06/11/2hvz5Q.md.jpg" alt="2hvz5Q.md.jpg" loading="lazy"></figure>
 <iframe height=600 width=320 src="http://v.xiaohongshu.com/377fe9d87d936e0f6dc7c0be7649cba968aef23a_v1_ln?sign=85d2133fc437a7ca87f1639848984ce0&t=60c4da00" frameborder=0 allowfullscreen></iframe>
 ]]></content>
     </entry>
