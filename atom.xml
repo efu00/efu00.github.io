@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-11T10:57:25.508Z</updated>
+    <updated>2021-06-11T10:58:49.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -38,6 +38,7 @@
 <figure data-type="image" tabindex="7"><img src="https://z3.ax1x.com/2021/06/11/2WHYsH.jpg" alt="7" loading="lazy"></figure>
 <p>最后我只想说一句</p>
 <p><font face="黑体" color=red size=9>人可以平凡，但不能平庸</font></p>
+<h2 id="music">music</h2>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1441145658&auto=1&height=66"></iframe>
 ]]></content>
     </entry>
