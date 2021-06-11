@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-11T04:57:25.597Z</updated>
+    <updated>2021-06-11T05:03:09.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://evanfu.ml"/>
+    <link rel="self" href="https://evanfu.ml/atom.xml"/>
     <subtitle>平凡但不平庸</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://evanfu.ml/images/avatar.png</logo>
+    <icon>https://evanfu.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[8月谷歌将接受广告商对加密货币钱包及兑换广告的宣传]]></title>
-        <id>http://localhost:4000/post/3/</id>
-        <link href="http://localhost:4000/post/3/">
+        <id>https://evanfu.ml/post/3/</id>
+        <link href="https://evanfu.ml/post/3/">
         </link>
         <updated>2021-06-09T10:29:24.000Z</updated>
         <summary type="html"><![CDATA[<p>从 8 月 3 日开始，谷歌将开始在其平台上接受针对美国消费者的加密货币交易所和数字钱包广告。这家科技巨头表示将在 8 月更新其金融产品和服务政策，以“明确允许加密货币广告的范围和要求相关业务和服务。”</p>
@@ -24,7 +24,7 @@
 <font face="黑体" color=red size=2.5>
 注：Google 的广告政策目前允许受监管的加密货币交易所在美国和日本投放广告</font>
 <p>Coinbase 最近宣布，部分客户将能够开始使用 Coinbase 卡，这是一种 Visa 借记卡，可在日常购买中提供高达 4% 的加密奖励，从本周开始使用数字钱包 Apple Pay 和 Google Pay。与此同时，PayPal 上周表示，它正在开发一项提款功能，以允许其用户将他们的加密货币转移到数字钱包中。提供加密货币交换和钱包产品的广告客户必须满足 Google 的认证要求，包括在金融犯罪执法网络注册为货币服务企业，以及至少在一个州注册为汇款机构，或者联邦或州特许银行实体。<br>
-<img src="https://1.bp.blogspot.com/-eFf0K9-aDfs/YLnoZaMVbYI/AAAAAAAACWU/pSbw3cCKM7wR29OEQ05zr2_2KtL2YliyACLcBGAsYHQ/s16000/download.jpg" alt="1" loading="lazy"></p>
+<img src="https://z3.ax1x.com/2021/06/11/2Wo8zQ.jpg" alt="1" loading="lazy"></p>
 <font face="黑体" color=pink size=2.5>
 图片来源：https://bitcoinist.com/google-branches-into-banking-is-it-a-threat-to-bitcoin</font>
 <p>他们还必须确保其广告和着陆页符合州和联邦法律要求以及所有 Google 广告政策。</p>
@@ -37,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【游戏推荐】这些游戏你可以不玩，但你的网盘不能没有]]></title>
-        <id>http://localhost:4000/post/2/</id>
-        <link href="http://localhost:4000/post/2/">
+        <id>https://evanfu.ml/post/2/</id>
+        <link href="https://evanfu.ml/post/2/">
         </link>
         <updated>2021-06-09T05:06:58.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="这些游戏你可以不玩但你的网盘不能没有">这些游戏你可以不玩，但你的网盘不能没有</h2>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2021年06月08日更新：34个免费高速v2ray节点分享clash订阅链接|7万kbps]]></title>
-        <id>http://localhost:4000/post/2021-06-08-free-v2ray-clash/</id>
-        <link href="http://localhost:4000/post/2021-06-08-free-v2ray-clash/">
+        <id>https://evanfu.ml/post/2021-06-08-free-v2ray-clash/</id>
+        <link href="https://evanfu.ml/post/2021-06-08-free-v2ray-clash/">
         </link>
         <updated>2021-06-08T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="2021年06月08日更新34个免费高速v2ray节点分享clash订阅链接7万kbps">2021年06月08日更新：34个免费高速v2ray节点分享clash订阅链接|7万kbps</h2>
@@ -140,8 +140,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vd3d3Lm1hdHRrYXlkaWFyeS5jb218
     </entry>
     <entry>
         <title type="html"><![CDATA[CSGO最新otc3注入器+dll]]></title>
-        <id>http://localhost:4000/post/1/</id>
-        <link href="http://localhost:4000/post/1/">
+        <id>https://evanfu.ml/post/1/</id>
+        <link href="https://evanfu.ml/post/1/">
         </link>
         <updated>2021-06-08T10:10:59.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="otc-3">OTC 3</h1>
