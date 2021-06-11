@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://evanfu.ml</id>
+    <id>http://localhost:4000</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-11T05:46:14.037Z</updated>
+    <updated>2021-06-11T10:53:07.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://evanfu.ml"/>
-    <link rel="self" href="https://evanfu.ml/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>平凡但不平庸</subtitle>
-    <logo>https://evanfu.ml/images/avatar.png</logo>
-    <icon>https://evanfu.ml/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[【随笔】要变成土猪拱城里的白菜？这个衡中学霸中了衡水中学的剧毒]]></title>
-        <id>https://evanfu.ml/post/4/</id>
-        <link href="https://evanfu.ml/post/4/">
+        <id>http://localhost:4000/post/4/</id>
+        <link href="http://localhost:4000/post/4/">
         </link>
         <updated>2021-06-11T05:06:55.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="要变成土猪拱城里的白菜这个衡中学霸中了衡水中学的剧毒">要变成土猪拱城里的白菜？这个衡中学霸中了衡水中学的剧毒</h2>
 ]]></summary>
         <content type="html"><![CDATA[<h2 id="要变成土猪拱城里的白菜这个衡中学霸中了衡水中学的剧毒">要变成土猪拱城里的白菜？这个衡中学霸中了衡水中学的剧毒</h2>
 <!-- more -->
-<iframe height="600" width="950" src="///player.bilibili.com/player.html?aid=206049315&bvid=BV1Vh411a7bn&cid=351962475&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=206049315&bvid=BV1Vh411a7bn&cid=351962475&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 <h2 id="正文">正文</h2>
 <p>再大的树，也要扎根泥土，从“平凡”起步；再小的生命，也有其张力和温度，不会向“平庸”低头。在宇宙自然面前，一切都很平凡；对伟大的生命来说，都不愿真的平庸。</p>
 <figure data-type="image" tabindex="1"><img src="https://z3.ax1x.com/2021/06/11/2W7bIP.jpg" alt="1" loading="lazy"></figure>
@@ -42,8 +42,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[8月谷歌将接受广告商对加密货币钱包及兑换广告的宣传]]></title>
-        <id>https://evanfu.ml/post/3/</id>
-        <link href="https://evanfu.ml/post/3/">
+        <id>http://localhost:4000/post/3/</id>
+        <link href="http://localhost:4000/post/3/">
         </link>
         <updated>2021-06-09T10:29:24.000Z</updated>
         <summary type="html"><![CDATA[<p>从 8 月 3 日开始，谷歌将开始在其平台上接受针对美国消费者的加密货币交易所和数字钱包广告。这家科技巨头表示将在 8 月更新其金融产品和服务政策，以“明确允许加密货币广告的范围和要求相关业务和服务。”</p>
@@ -67,8 +67,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【游戏推荐】这些游戏你可以不玩，但你的网盘不能没有]]></title>
-        <id>https://evanfu.ml/post/2/</id>
-        <link href="https://evanfu.ml/post/2/">
+        <id>http://localhost:4000/post/2/</id>
+        <link href="http://localhost:4000/post/2/">
         </link>
         <updated>2021-06-09T05:06:58.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="这些游戏你可以不玩但你的网盘不能没有">这些游戏你可以不玩，但你的网盘不能没有</h2>
@@ -117,8 +117,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[CSGO最新otc3注入器+dll]]></title>
-        <id>https://evanfu.ml/post/1/</id>
-        <link href="https://evanfu.ml/post/1/">
+        <id>http://localhost:4000/post/1/</id>
+        <link href="http://localhost:4000/post/1/">
         </link>
         <updated>2021-06-08T10:10:59.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="otc-3">OTC 3</h1>
