@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://evanfu.ml</id>
+    <id>http://localhost:4000</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-09T11:56:37.833Z</updated>
+    <updated>2021-06-11T04:57:25.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://evanfu.ml"/>
-    <link rel="self" href="https://evanfu.ml/atom.xml"/>
-    <subtitle>&lt;p style=&quot;text-align:center;padding-top:5px;&quot;&gt;本站勉强运行：&lt;span id=&quot;days&quot;&gt;0&lt;/span&gt;天
-&lt;/p&gt;
-&lt;script&gt;
-	var s1 = &apos;2021-05-01&apos;;
-	s1 = new Date(s1.replace(/-/g, &quot;/&quot;));
-	s2 = new Date();
-	var days = s2.getTime() - s1.getTime();
-	var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
-	document.getElementById(&apos;days&apos;).innerHTML = number_of_days;
-&lt;/script&gt;</subtitle>
-    <logo>https://evanfu.ml/images/avatar.png</logo>
-    <icon>https://evanfu.ml/favicon.ico</icon>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <subtitle>平凡但不平庸</subtitle>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[8月谷歌将接受广告商对加密货币钱包及兑换广告的宣传]]></title>
-        <id>https://evanfu.ml/post/3/</id>
-        <link href="https://evanfu.ml/post/3/">
+        <id>http://localhost:4000/post/3/</id>
+        <link href="http://localhost:4000/post/3/">
         </link>
         <updated>2021-06-09T10:29:24.000Z</updated>
         <summary type="html"><![CDATA[<p>从 8 月 3 日开始，谷歌将开始在其平台上接受针对美国消费者的加密货币交易所和数字钱包广告。这家科技巨头表示将在 8 月更新其金融产品和服务政策，以“明确允许加密货币广告的范围和要求相关业务和服务。”</p>
@@ -46,8 +37,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【游戏推荐】这些游戏你可以不玩，但你的网盘不能没有]]></title>
-        <id>https://evanfu.ml/post/2/</id>
-        <link href="https://evanfu.ml/post/2/">
+        <id>http://localhost:4000/post/2/</id>
+        <link href="http://localhost:4000/post/2/">
         </link>
         <updated>2021-06-09T05:06:58.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="这些游戏你可以不玩但你的网盘不能没有">这些游戏你可以不玩，但你的网盘不能没有</h2>
@@ -96,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2021年06月08日更新：34个免费高速v2ray节点分享clash订阅链接|7万kbps]]></title>
-        <id>https://evanfu.ml/post/2021-06-08-free-v2ray-clash/</id>
-        <link href="https://evanfu.ml/post/2021-06-08-free-v2ray-clash/">
+        <id>http://localhost:4000/post/2021-06-08-free-v2ray-clash/</id>
+        <link href="http://localhost:4000/post/2021-06-08-free-v2ray-clash/">
         </link>
         <updated>2021-06-08T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="2021年06月08日更新34个免费高速v2ray节点分享clash订阅链接7万kbps">2021年06月08日更新：34个免费高速v2ray节点分享clash订阅链接|7万kbps</h2>
@@ -149,8 +140,8 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vd3d3Lm1hdHRrYXlkaWFyeS5jb218
     </entry>
     <entry>
         <title type="html"><![CDATA[CSGO最新otc3注入器+dll]]></title>
-        <id>https://evanfu.ml/post/1/</id>
-        <link href="https://evanfu.ml/post/1/">
+        <id>http://localhost:4000/post/1/</id>
+        <link href="http://localhost:4000/post/1/">
         </link>
         <updated>2021-06-08T10:10:59.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="otc-3">OTC 3</h1>
