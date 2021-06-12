@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-12T06:40:47.788Z</updated>
+    <updated>2021-06-12T07:02:26.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -11,24 +11,14 @@
     <icon>https://evanfu.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
     <entry>
-        <title type="html"><![CDATA[ 【毒鸡汤】｜希望你早点看到这个视频，加油！💜]]></title>
-        <id>https://evanfu.ml/post/6/</id>
-        <link href="https://evanfu.ml/post/6/">
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://evanfu.ml/post/test/</id>
+        <link href="https://evanfu.ml/post/test/">
         </link>
-        <updated>2021-06-11T14:39:03.000Z</updated>
-        <summary type="html"><![CDATA[<ul>
-<li>生活可以是甜的，也可以是苦的，但不能是没味的。你可以胜利，也可以失败，但你不能屈服</li>
-</ul>
-]]></summary>
-        <content type="html"><![CDATA[<ul>
-<li>生活可以是甜的，也可以是苦的，但不能是没味的。你可以胜利，也可以失败，但你不能屈服</li>
-</ul>
-<!-- more -->
-<figure data-type="image" tabindex="1"><img src="https://z3.ax1x.com/2021/06/11/2hvz5Q.md.jpg" alt="2hvz5Q.md.jpg" loading="lazy"></figure>
-<div class="bilibili">
-    <iframe height=600 width=320 src="http://v.xiaohongshu.com/377fe9d87d936e0f6dc7c0be7649cba968aef23a_v1_ln?sign=85d2133fc437a7ca87f1639848984ce0&t=60c4da00" frameborder=0 allowfullscreen></iframe>
-</div>
-]]></content>
+        <updated>2021-06-12T06:53:50.000Z</updated>
+        <content type="html"><![CDATA[<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=145147963&aid=84267566&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
+</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【每日MUSIC】晚风 Copy / BT07-PZ]]></title>
@@ -125,8 +115,8 @@
 ]]></summary>
         <content type="html"><![CDATA[<h2 id="要变成土猪拱城里的白菜这个衡中学霸中了衡水中学的剧毒">要变成土猪拱城里的白菜？这个衡中学霸中了衡水中学的剧毒</h2>
 <!-- more -->
-<div class="bilibili">
-    <iframe src="//player.bilibili.com/player.html?aid=206049315&bvid=BV1Vh411a7bn&cid=351962475&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div style="position: relative; padding: 30% 45%;">
+<iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src="https://player.bilibili.com/player.html?cid=351962475&aid=206049315&page=1&as_wide=1&high_quality=1&danmaku=0" frameborder="no" scrolling="no"></iframe>
 </div>
 <h2 id="正文">正文</h2>
 <p>再大的树，也要扎根泥土，从“平凡”起步；再小的生命，也有其张力和温度，不会向“平庸”低头。在宇宙自然面前，一切都很平凡；对伟大的生命来说，都不愿真的平庸。</p>
