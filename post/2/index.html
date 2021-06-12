@@ -259,7 +259,23 @@
       </div>
 
       <div class="site-footer">
-  
+  <div id="hitokoto"style="font-size:14px;color:black;">获取中...</div>
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+<!--End-->
+<script>
+  fetch('https://v1.hitokoto.cn/?c=k&encode=json')
+    .then(function (res){
+      return res.json();
+    })
+    .then(function (data) {
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = "每日一言："+data.hitokoto; 
+    })
+    .catch(function (err) {
+      console.error(err);
+    })
+</script>
 
   </a>
   <b>Powered by </b>
