@@ -39,7 +39,7 @@
 
 						<div class="logo">
 							<a href="https://evanfu.ml">
-								<img class="logo" src="https://evanfu.ml/media/images/site_avatar.png?v=1623531887788"
+								<img class="logo" src="https://evanfu.ml/media/images/site_avatar.png?v=1623532040346"
 									alt="">
 							</a>
 						</div>
@@ -495,7 +495,23 @@
 							<div class="col-12 col-md-9">
 								<div class="footer-copy">
 									
-									
+									<div id="hitokoto"style="font-size:14px;color:black;">获取中...</div>
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+<!--End-->
+<script>
+  fetch('https://v1.hitokoto.cn/?c=k&encode=json')
+    .then(function (res){
+      return res.json();
+    })
+    .then(function (data) {
+      var hitokoto = document.getElementById('hitokoto');
+      hitokoto.innerText = "每日一言："+data.hitokoto; 
+    })
+    .catch(function (err) {
+      console.error(err);
+    })
+</script>
 									<div class="footer-icp d-none d-sm-inline-block">
 										<span class="px-2">⋅</span>
 										
@@ -507,6 +523,12 @@
 									
 									
 									
+									
+									<span class="footer-links-item">
+										<a href="https://github.com/efu00" target="_blank">
+											<i class="fa fa-github" aria-hidden="true"></i>
+										</a>
+									</span>
 									
 									
 									
