@@ -1,375 +1,276 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<html>
 
 <head>
-	<meta charset="UTF-8" />
+  <meta charset="utf-8" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>evanfu&#39;s blog</title>
-<meta name="description" content="平凡但不平庸" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
-
-<link type="text/css" rel="stylesheet" href="https://evanfu.ml/styles/main.css" media="screen" />
-<link type="text/css" rel="stylesheet" href="https://cdn.bootcss.com/KaTeX/0.11.1/katex.min.css" />
-<link type="text/css" rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.3/styles/github.min.css" integrity="sha512-FwY1WVsm4UQgrOXt6kaQ53w83cOHa8fSvjFn/BvVOCYVPmkSR39k/xnU+8hht3zW6JL1TBd4C/aVQIAV58Cg6A==" crossorigin="anonymous" /> -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.3/styles/atom-one-dark.min.css" integrity="sha512-Jlyabam8ztU2kOGN19fSzv1Go9nt9A43UA6vhmL1MPsQMeoPZd+p7pbmegAtyl8kulna0Cqwb7Pgj4adGTLCXA==" crossorigin="anonymous" />
-<script type="text/javascript" src="https://evanfu.ml/media/scripts/jquery.js"></script>
-<!-- <script type="text/javascript" src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.3/highlight.min.js" integrity="sha512-tHQeqtcNWlZtEh8As/4MmZ5qpy0wj04svWFK7MIzLmUVIzaHXS8eod9OmHxyBL1UET5Rchvw7Ih4ZDv5JojZww==" crossorigin="anonymous"></script>
+<link rel="shortcut icon" href="https://evanfu.ml/favicon.ico">
+<!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+  integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->
+<link rel="stylesheet" href="https://evanfu.ml/styles/main.css">
+<link rel="apple-touch-icon" href="https://evanfu.ml/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="XiaoX 博客">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 
+<!-- iconfont -->
+<link href="https://at.alicdn.com/t/font_2463772_glcffdg0qau.css" rel="stylesheet" />
 
-<script>
-  hljs.initHighlightingOnLoad();
-</script>
+
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+
+<!-- DEMO JS -->
+<script src="media/scripts/index.js"></script>
+
 
 </head>
 
 <body>
-	<div class="layout">
-		<div class="layout-header">
+  <div class="main">
+    <div class="main-content">
+      <div class="nav-bar">
+  <!-- 首页菜单 -->
+  <div class="menu-container">
+    <a href="https://evanfu.ml/index.html" target="_parent" class="home">
+      <svg class="home-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+        <path fill="#fff" d="M12 14l9-5-9-5-9 5 9 5z"></path>
+        <path fill="#fff"
+          d="M12 14l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14z">
+        </path>
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+          d="M12 14l9-5-9-5-9 5 9 5zm0 0l6.16-3.422a12.083 12.083 0 01.665 6.479A11.952 11.952 0 0012 20.055a11.952 11.952 0 00-6.824-2.998 12.078 12.078 0 01.665-6.479L12 14zm-4 6v-7.5l4-2.222">
+        </path>
+      </svg>
+      <span class="home-title">Home</span>
+    </a>
 
-	<div class="layout-header-main">
-		<div class="container">
-			<div class="row justify-content-lg-center">
-				<div class="col-12 col-lg-9">
-
-					<div class="navbar">
-
-						<div class="logo">
-							<a href="https://evanfu.ml">
-								<img class="logo" src="https://evanfu.ml/media/images/site_avatar.png?v=1623532670463"
-									alt="">
-							</a>
-						</div>
-
-						<div class="menu d-md-inline-block d-none">
-							<ul class="layout-navigation-list">
-								
-								<li class="layout-navigation-item"><a title="首页"
-										href="/">首页</a>
-								</li>
-								
-								<li class="layout-navigation-item"><a title="归档"
-										href="/archives">归档</a>
-								</li>
-								
-								<li class="layout-navigation-item"><a title="标签"
-										href="/tags">标签</a>
-								</li>
-								
-								<li class="layout-navigation-item"><a title="友链"
-										href="/links">友链</a>
-								</li>
-								
-								<li class="layout-navigation-item"><a title="关于"
-										href="/post/about">关于</a>
-								</li>
-								
-							</ul>
-						</div>
-
-						
-						<div class="item d-md-inline-block d-none">
-							<a class="btn" href="https://evanfu.ml/atom.xml">
-								订 阅
-							</a>
-						</div>
-						
-
-						<div class="nav d-md-none d-inline-block">
-							<div class="trigger">
-								<i class="fa fa-bars layout-btn-toggle" aria-hidden="true"></i>
-							</div>
-						</div>
-
-					</div>
-
-				</div>
-			</div>
+    <div class="nav-menu">
+      
+      
+      <a href="/" class="menu">
+        首页
+      </a>
+      
+      
+      
+      <a href="/archives" class="menu">
+        归档
+      </a>
+      
+      
+      
+      <a href="/tags" class="menu">
+        标签
+      </a>
+      
+      
+      
+      <a href="/links" class="menu">
+        友链
+      </a>
+      
+      
+      
+      <a href="/post/about" class="menu">
+        关于
+      </a>
+      
+      
 
 
 
-
-		</div>
-	</div>
-
-</div>
-		<div class="layout-collapse d-md-none">
-	<div class="layout-collapse-main">
-		<ul class="layout-collapse-list">
-			
-			<li class="layout-collapse-item"><a title="首页" href="/">首页</a></li>
-			
-			<li class="layout-collapse-item"><a title="归档" href="/archives">归档</a></li>
-			
-			<li class="layout-collapse-item"><a title="标签" href="/tags">标签</a></li>
-			
-			<li class="layout-collapse-item"><a title="友链" href="/links">友链</a></li>
-			
-			<li class="layout-collapse-item"><a title="关于" href="/post/about">关于</a></li>
-			
-
-		</ul>
-	</div>
+      <a href="https://evanfu.ml/atom.xml" target="_blank" class="rss">
+        <span class="rss-title">RSS</span>
+        <i class="iconfont icon-rss"></i>
+      </a>
+    </div>
+  </div>
 </div>
 
-		<div class="layout-content">
-			<div class="layout-content-main">
-				<div class="container">
-					<div class="row justify-content-lg-center">
-						<div class="col-12 col-lg-9">
-							<div class="layout-tags row">
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">电影推荐</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 2 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">每日看点</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">每日MUSIC</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 2 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">随笔</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">技术</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">google</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">游戏推荐</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">电脑</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">电脑游戏</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">CSGO</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">cheat</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
-								<div class="col-6 mb-3">
-									<div class="card">
-										<div class="card-header">
-											<div class="header-content">
-												<div class="title">hack</div>
-											</div>
-										</div>
-										<div class="card-body">
-											<div class="card-item">
-												<div class="list-content">
-													<div class="list-body">
-														<div class="title" href=""><span> 1 </span> 篇文章</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-								
+      <div class="site-header">
+  <!-- 首页头像 -->
+  <div class="site-avatar">
+    <a href="https://evanfu.ml">
+      <img class="avatar" src="https://evanfu.ml/images/avatar.png?v=1623534552136" alt="">
+    </a>
+  </div>
+  <!-- 首页标题 -->
+  <h1 class="site-title">
+    evanfu&#39;s blog
+  </h1>
+  <!-- 首页描述 -->
+  <p class="site-description">
+    平凡但不平庸
+  </p>
+  <!-- 社交软件 -->
+  <div class="social-container">
+    
+    
+    <a href="mailto:evanfu080110@163.com" target="_blank">
+      <i class="iconfont icon-email"></i>
+    </a>
+    
+    
+    
+    <a href="https://t.me/evanfu080110" target="_blank">
+      <i class="iconfont icon-telegram"></i>
+    </a>
+    
+    
+    
+    <a href="https://github.com/efu00" target="_blank">
+      <i class="iconfont icon-github"></i>
+    </a>
+    
+    
+    
+    
+    
+    
+  </div>
+</div>
 
-							</div>
+      <div class="tags-container">
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/cB8Lx-Lwg/">
+            电影推荐
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/bZEtVYJZx/">
+            每日看点
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/7L8X2OrGZ/">
+            每日MUSIC
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/DW8Hz9F0o/">
+            随笔
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/hDpdf21XT/">
+            技术
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/dYO3QKmJYG/">
+            google
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/yb9IFJUQ8/">
+            游戏推荐
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/DxXKedfh8c/">
+            电脑
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/gxYj5mMJ_2/">
+            电脑游戏
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/A11p-B3Va/">
+            CSGO
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/Tr5dAWo7fZ/">
+            cheat
+          </a>
+        </div>
+        
+        <div class="tag-list">
+          <svg class="tag-icon" fill="none" viewBox="0 0 24 24" stroke="currentColor" width="24" height="24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+              d="M7 7h.01M7 3h5a1.99 1.99 0 011.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z">
+            </path>
+          </svg>
+          <a class="tag" href="https://evanfu.ml/tag/UsJpQPFTD4/">
+            hack
+          </a>
+        </div>
+        
+      </div>
 
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-
-
-			<div class="layout-footer">
-
-		<div class="container">
-			<div class="row justify-content-lg-center">
-				<div class="col-12 col-lg-9">
-					<div class="footer">
-						<div class="row">
-							<div class="col-12 col-md-9">
-								<div class="footer-copy">
-									
-									<div id="hitokoto"style="font-size:14px;color:black;">获取中...</div>
+      <div class="site-footer">
+  <div id="hitokoto"style="font-size:14px;color:black;">获取中...</div>
 <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
 <!--End-->
@@ -386,62 +287,30 @@
       console.error(err);
     })
 </script>
-									<div class="footer-icp d-none d-sm-inline-block">
-										<span class="px-2">⋅</span>
-										
-									</div>
-								</div>
-							</div>
-							<div class="col-sm-3 d-none d-md-block">
-								<div class="footer-links">
-									
-									
-									
-									
-									<span class="footer-links-item">
-										<a href="https://github.com/efu00" target="_blank">
-											<i class="fa fa-github" aria-hidden="true"></i>
-										</a>
-									</span>
-									
-									
-									
-									<span class="footer-links-item">
-										<a href="https://t.me/evanfu080110" target="_blank">
-											<i class="fa fa-telegram" aria-hidden="true"></i>
-										</a>
-									</span>
-									
-									
-									
-									
-									
-									
-									
-									<span class="footer-links-item">
-										<a href="1771005798" target="_blank">
-											<i class="fa fa-qq" aria-hidden="true"></i>
-										</a>
-									</span>
-									
-									
-									
-									
-									
-									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+<p style="text-align:center;padding-top:10px;">本站勉强运行：<span id="days">0</span>天
+</p>
+<script>
+	var s1 = '2021-05-01';
+	s1 = new Date(s1.replace(/-/g, "/"));
+	s2 = new Date();
+	var days = s2.getTime() - s1.getTime();
+	var number_of_days = parseInt(days / (1000 * 60 * 60 * 24));
+	document.getElementById('days').innerHTML = number_of_days;
+</script>
 
-	</div>
+  </a>
+  <b>Powered by </b>
+  <a href="https://evanfu.ml/" target="_blank" title="evanfu">
+    <span><b>evanfu</b></span>
+  </a>
+</div>
 
-	<script type="text/javascript" src='https://evanfu.ml/media/scripts/main.js'></script>
-	
-	</div>
+<script>
+  hljs.initHighlightingOnLoad()
+</script>
+
+    </div>
+  </div>
 </body>
 
 </html>
