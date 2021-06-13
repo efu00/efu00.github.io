@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-13T05:28:17.079Z</updated>
+    <updated>2021-06-13T05:30:41.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -10,15 +10,6 @@
     <logo>https://evanfu.ml/images/avatar.png</logo>
     <icon>https://evanfu.ml/favicon.ico</icon>
     <rights>All rights reserved 2021, evanfu&apos;s blog</rights>
-    <entry>
-        <title type="html"><![CDATA[test]]></title>
-        <id>https://evanfu.ml/post/test/</id>
-        <link href="https://evanfu.ml/post/test/">
-        </link>
-        <updated>2021-06-13T05:08:38.000Z</updated>
-        <content type="html"><![CDATA[<p>only test</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ 【电影推荐】《异类》 2021]]></title>
         <id>https://evanfu.ml/post/9/</id>
