@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://evanfu.ml</id>
     <title>evanfu&apos;s blog</title>
-    <updated>2021-06-14T10:41:21.777Z</updated>
+    <updated>2021-06-14T10:46:59.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://evanfu.ml"/>
     <link rel="self" href="https://evanfu.ml/atom.xml"/>
@@ -29,7 +29,8 @@
 <li>就是通过Electron git 一下我的网站</li>
 </ul>
 <blockquote>
-<p>nativefier --icon &quot;C:\Users\evanfu\Downloads\icon.ico&quot; &quot;https://efu00.gitee.io/cube&quot;</p>
+<p>nativefier --icon &quot;C:\Users\evanfu\Downloads<br>
+icon.ico&quot; &quot;https://efu00.gitee.io/cube&quot;</p>
 </blockquote>
 <p>有效期可以试试</p>
 <blockquote>
@@ -54,9 +55,9 @@
 <img src="https://z3.ax1x.com/2021/06/14/27wOyt.png" alt="27wOyt.png" loading="lazy"></li>
 </ul>
 <blockquote>
-<p>还不错<br>
-<img src="https://z3.ax1x.com/2021/06/14/27BZjI.png" alt="27BZjI.png" loading="lazy"></p>
+<p>还不错🤗</p>
 </blockquote>
+<figure data-type="image" tabindex="1"><img src="https://z3.ax1x.com/2021/06/14/27BZjI.png" alt="27BZjI.png" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
