@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>blog.evanfu.gq</id>
+    <title>evanfu's blog</title>
+    <updated>2022-02-17T15:52:03.676Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="blog.evanfu.gq"/>
+    <link rel="self" href="blog.evanfu.gq/atom.xml"/>
+    <subtitle>只要努力活下去，总有一天会笑着回忆---《不可思议的游戏》</subtitle>
+    <logo>https://cdn.jsdelivr.net/gh/efu00/img@master/icon/icon-1.png</logo>
+    <icon>https://cdn.jsdelivr.net/gh/efu00/img@master/icon/icon-1.png</icon>
+    <rights>All rights reserved 2022, evanfu's blog</rights>
+    <entry>
+        <title type="html"><![CDATA[【技术】cfm上市辅助m pro破解教程/源码]]></title>
+        <id>https://blog.evanfu.gq/10</id>
+        <link href="https://blog.evanfu.gq/10"/>
+        <updated>2022-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+今天突然在某卡网看到一个cfm的g
+
+
+
+不晓得作者咋想的，就是简单的验证卡密然后跳转到主页面，也没有文件名验证，所以直接把main.lua删了，把那个index.lua改成main然后打包安装就可以了😂
+
+
+
+
+
+不知道稳不稳，我基本...]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>今天突然在某卡网看到一个cfm的g</p>
+</blockquote>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/205_origin_Screenshot_2022-02-17-23-41-13-160_mark.via.jpg" alt="" loading="lazy"></p>
+<hr>
+<p><strong>不晓得作者咋想的，就是简单的验证卡密然后跳转到主页面，也没有文件名验证，所以直接把main.lua删了，把那个index.lua改成main然后打包安装就可以了</strong>😂</p>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/203_origin_Screenshot_2022-02-17-23-22-14-261_Draw.M.Pro.jpg" alt="" loading="lazy"></p>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/200_origin_Screenshot_2022-02-17-23-21-15-261_bin.mt.plus.jpg" alt="" loading="lazy"></p>
+<hr>
+<p><em><strong>不知道稳不稳，我基本不玩cfm🤔</strong></em><br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/201_origin_Screenshot_2022-02-17-23-21-27-663_Draw.M.Pro.jpg" alt="" loading="lazy"></p>
+<p>#成品下载：<a href="https://evanfu.lanzouw.com/i6uQP008ovhg">https://evanfu.lanzouw.com/i6uQP008ovhg</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【技术】关于我对社工的理解（会后续补充）]]></title>
+        <id>https://blog.evanfu.gq/9</id>
+        <link href="https://blog.evanfu.gq/9"/>
+        <updated>2022-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+
+
+你要查的那个人如果有他好友的话，直接ip探针，编生动的故事让他点开
+
+
+
+不是好友的话，用小号加，去看他空间，空间是一个很多秘密的地方，打开他给他点赞的好友，不要急着加，查看2～3个人的信息，看看他们的年龄和地区是否一样，如果一样，差...]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/206_origin_1645112843018.jpeg" alt="" loading="lazy"></p>
+<hr>
+<ol>
+<li>你要查的那个人如果有他好友的话，直接ip探针，编生动的故事让他点开</li>
+</ol>
+<hr>
+<ol start="2">
+<li>不是好友的话，用小号加，去看他空间，空间是一个很多秘密的地方，打开他给他点赞的好友，不要急着加，查看2～3个人的信息，看看他们的年龄和地区是否一样，如果一样，差不多那个人就是这里的，然后加他们好友，套话就行了</li>
+</ol>
+<hr>
+<ol start="3">
+<li>用他的QQ号查微信呺 快手号把能查的都查了，相信我，只要不是小号一定有有用的信息</li>
+</ol>
+<h3 id="还有后续">还有后续</h3>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【技术】AndLua工具帖]]></title>
+        <id>https://blog.evanfu.gq/8</id>
+        <link href="https://blog.evanfu.gq/8"/>
+        <updated>2022-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+下载下方的所用工具
+
+
+
+AndLua+ 6.8-beta
+用于制作打包AndLua工程
+
+
+https://xingchennb.lanzoui.com/iZDGOthamkd
+密码：关注
+
+
+ALuaJ助手1.0.7
+用于编写AndL...]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>下载下方的所用工具</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>AndLua+ 6.8-beta<br>
+用于制作打包AndLua工程</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKApnJ.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/iZDGOthamkd">https://xingchennb.lanzoui.com/iZDGOthamkd</a><br>
+密码：关注</strong></em></p>
+<hr>
+<blockquote>
+<p>ALuaJ助手1.0.7<br>
+用于编写AndLua布局以及教程</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKAQAI.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://wwa.lanzoui.com/isZ7ktf6yqf">https://wwa.lanzoui.com/isZ7ktf6yqf</a></strong></em></p>
+<hr>
+<blockquote>
+<p>AndLua+手册1.0<br>
+AndLua语法布局编写教程</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKE3Z9.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/i2oUQthamoh">https://xingchennb.lanzoui.com/i2oUQthamoh</a><br>
+密码:关注</strong></em></p>
+<hr>
+<blockquote>
+<p>fa布局手册1.0<br>
+更便捷的编写AndLua布局</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKEcJP.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/isielthamtc">https://xingchennb.lanzoui.com/isielthamtc</a><br>
+密码:关注</strong></em></p>
+<hr>
+<blockquote>
+<p>Lua布局助手2.9.20<br>
+更便捷的编写AndLua布局(和fa布局助手差不多)</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKEqzT.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/illbhthamve">https://xingchennb.lanzoui.com/illbhthamve</a><br>
+密码:关注</strong></em></p>
+<hr>
+<blockquote>
+<p>ALua手册<br>
+Lua语法教程等等</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKV9F1.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/iVRtAthamqj">https://xingchennb.lanzoui.com/iVRtAthamqj</a><br>
+密码:关注</strong></em></p>
+<hr>
+<blockquote>
+<p>Fia开发手册<br>
+iapp,FaLua,ALua,结绳,HTML语法教程</p>
+</blockquote>
+<p><img src="https://s4.ax1x.com/2022/02/06/HKV36S.png" alt="" loading="lazy"></p>
+<p><em><strong><a href="https://xingchennb.lanzoui.com/i0FZ3thamzi">https://xingchennb.lanzoui.com/i0FZ3thamzi</a><br>
+密码:关注</strong></em></p>
+<hr>
+<p><em><strong>总文件夹链接<br>
+<a href="https://xingchennb.lanzoui.com/b01ujhqdc">https://xingchennb.lanzoui.com/b01ujhqdc</a><br>
+密码：关注</strong></em></p>
+<hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MUSIC】 你那叫吃播吗(含视频)-老八]]></title>
+        <id>https://blog.evanfu.gq/7</id>
+        <link href="https://blog.evanfu.gq/7"/>
+        <updated>2022-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+
+
+歌手：岛市老八
+资源来自evanfu's blog
+
+
+listen TO music
+
+
+      
+
+
+
+
+老八视频集合
+
+各种原因不能上传服务器在线播放
+
+下载
+老八3次撤硕大战合集
+...]]></summary>
+        <content type="html"><![CDATA[<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/1643987399056.jpg" alt="" loading="lazy"></p>
+<blockquote>
+<p>歌手：岛市老八<br>
+资源来自evanfu's blog</p>
+</blockquote>
+<hr>
+<p><em><strong>listen TO music</strong></em></p>
+<hr>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://www.5ev.cc/down.php/f815377ec5476be73e356c7061988712.mp3">
+</audio>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/1643987791761.gif" alt="" loading="lazy"></p>
+<hr>
+<p><em><strong>老八视频集合</strong></em></p>
+<blockquote>
+<p>各种原因不能上传服务器在线播放</p>
+</blockquote>
+<p><strong>下载</strong></p>
+<p><a href="https://www.5ev.cc/down.php/b8f530193070cf103f7c208eea7d7293.avi">老八3次撤硕大战合集</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随笔】关于博客迁移到vercel]]></title>
+        <id>https://blog.evanfu.gq/6</id>
+        <link href="https://blog.evanfu.gq/6"/>
+        <updated>2022-02-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[因为gridea web 中国香港阿里云 CA证书的问题，我暂时将网站扔到github page再用vercel+cf来对国内的访问进行优化
+
+
+
+
+vercel的国内速度非常彳亍，暂时就这样了搞了
+
+
+
+
+...]]></summary>
+        <content type="html"><![CDATA[<p><em><strong>因为gridea web 中国香港阿里云 CA证书的问题，我暂时将网站扔到github page再用vercel+cf来对国内的访问进行优化</strong></em></p>
+<hr>
+<p><img src="https://s4.ax1x.com/2022/02/04/HZ0KSg.png" alt="" loading="lazy"></p>
+<hr>
+<blockquote>
+<p>vercel的国内速度非常彳亍，暂时就这样了搞了</p>
+</blockquote>
+<hr>
+<p><img src="https://s4.ax1x.com/2022/02/04/HZsF9f.gif" alt="" loading="lazy"><br>
+<img src="https://s4.ax1x.com/2022/02/04/HZrghV.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随笔】「新春快乐 虎年大吉」evanfu给大家拜年啦！]]></title>
+        <id>https://blog.evanfu.gq/5</id>
+        <link href="https://blog.evanfu.gq/5"/>
+        <updated>2022-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+
+
+
+
+2021
+成长 蜕变 获得 释怀
+属于我们的永远都在
+你我在平凡的生命中
+点燃不凡的璀璨烟火
+一起收获温暖与爱意
+总有些瞬间让人心潮澎湃
+总有些感动让人热泪盈眶
+
+
+
+
+
+
+踔厉笃行，步履不停
+过去的一年，我们乘风破浪，创新突破
+...]]></summary>
+        <content type="html"><![CDATA[<iframe src="//music.163.com/outchain/player?type=2&id=109827&auto=1&height=66" allowfullscreen="allowfullscreen" width="100%" height="86" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/f49d7d7b-d394-4940-a175-923079f73b0c.jpeg.jpg" alt="" loading="lazy"></p>
+<hr>
+<blockquote>
+<p><font color=red
+      size=3.5>2021<br>
+成长 蜕变 获得 释怀<br>
+属于我们的永远都在<br>
+你我在平凡的生命中<br>
+点燃不凡的璀璨烟火<br>
+一起收获温暖与爱意<br>
+总有些瞬间让人心潮澎湃<br>
+总有些感动让人热泪盈眶<br>
+</font></p>
+</blockquote>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/30426706-8ba2-46bf-bd13-fdda7bbd32e7.jpeg" alt="" loading="lazy"></p>
+<hr>
+<blockquote>
+<p><font color=red
+      size=3.5>踔厉笃行，步履不停<br>
+过去的一年，我们乘风破浪，创新突破<br>
+过去的一年，我们砥砺前行，收获满满<br>
+心中有光，追梦不止<br>
+满怀憧憬，未来可期<br>
+2022，不负初心，我们任重道远<br>
+2022，携手前行，我们一起向未来<br>
+</font></p>
+</blockquote>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/927c5969-7104-4a98-9b78-ac282f9c936c.jpeg" alt="" loading="lazy"></p>
+<hr>
+<p><font color=red
+      size=4.75>#2022，愿你许下的心愿都如愿<br>
+</font></p>
+<p>勇敢加倍、自律加倍、能力加倍、智慧加倍，以加倍的努力把“想到”变成“做到”，惊喜会在厚积薄发时等你。</p>
+<hr>
+<p><font color=red
+      size=4.75>#2022，愿你拥抱世间千万种美好</font></p>
+<p>愿你在今后每一个日子里，无论与世界交手多少次，记住那些被美好击中的时刻，始终满怀希望，始终充满热爱，始终拥抱美好。</p>
+<hr>
+<p><font color=red
+      size=4.75>#2022，愿你与更好的自己相逢<br>
+</font></p>
+<p>新年伊始，保持好奋斗姿态，做个平凡英雄，在不懈拼搏中，汇聚成昂扬奋进的洪流。人不负青山，青山定不负人。</p>
+<hr>
+<p><font color=red
+      size=4.75>#2022，我们一起向未来<br>
+</font></p>
+<p>梦想有高度，要以踔厉奋发、笃行不怠的精神来标注；前路非坦途，要以“致广大而尽精微”的奋斗来开拓。</p>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/IMG_20220201_134921.jpg" alt="" loading="lazy"></p>
+<hr>
+<blockquote>
+<p><font color=red
+      size=3.5>一起向未来<br>
+激荡着接续奋斗的豪情<br>
+更美的风景就在前方<br>
+追梦者的脚步不会停歇<br>
+二〇二二让我们<br>
+眼里有光，有星辰大海<br>
+不畏不惧，能御风而行<br>
+虎虎生威，有猛虎之势<br>
+最后evanfu祝大家新的一年里<br>
+身体健康，万事如意！<br>
+</font></p>
+</blockquote>
+<hr>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/6d4e9968-021f-4727-af7f-d4984a573eba.png" alt="" loading="lazy"></p>
+<hr>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【技术】使用Picgo+GitHub搭建属于自己免费图床]]></title>
+        <id>https://blog.evanfu.gq/3</id>
+        <link href="https://blog.evanfu.gq/3"/>
+        <updated>2022-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一、前言
+好多天没发blog了，一个是因为学业方面，还有一个就是关于gridea web续费的小问题
+这片博文是补我在[说说]2021.06.21挖的一个坑（关于github图床这码事）
+我们都知道Markdown这种轻量级标记语言，因为他...]]></summary>
+        <content type="html"><![CDATA[<h2 id="一-前言">一、前言</h2>
+<p>好多天没发blog了，一个是因为学业方面，还有一个就是关于gridea web续费的小问题</p>
+<p>这片博文是补我在<a href="https://evanfu.ga/bb">[说说]</a>2021.06.21挖的一个坑（关于github图床这码事）</p>
+<p>我们都知道Markdown这种轻量级标记语言，因为他相较于word等方便太多了，但是有一个很严重的问题就是，它对于图片很不友好，如果我是插入本地图片，那么如果我图片的位置改变之后，图片可能就找不到了，而且太多的图片对于移植也不太方便。</p>
+<p>后来我发现了PicGo这款工具，可以轻易的将图片转换为链接，下面我将会讲述PicGo使用Github当图库如何使用。</p>
+<h2 id="二-picgo介绍">二、PicGo介绍</h2>
+<p>PicGo是一款图片上传工具，目前支持SM.MS图床、腾讯云COS、微博图床、GitHub图床、七牛图床、Imgur图床、阿里云OSS、又拍云图床，未来将支持更多图床。</p>
+<p>而这里边，SM.MS和Imgur有免费版也有收费版，腾讯云、七牛、阿里云、又拍云都是收费的，微博图床已经挂了。现在微软接管了GitHub以后，貌似公有仓库已经不限个数了，而且单个仓库容量已经放宽至2GB。这绝对够用了，不够就再建一个共有仓呗。那么，也就剩下GitHub安全、免费又可靠了。</p>
+<p>PicGo项目地址：https://github.com/Molunerfinn/PicGo</p>
+<h3 id="前提配置">前提配置</h3>
+<ul>
+<li>
+<p>安装好 Picgo</p>
+</li>
+<li>
+<p>创建 GitHub 账号</p>
+</li>
+</ul>
+<h2 id="三-正文">三、正文</h2>
+<ol>
+<li>
+<p>创建GitHub图床之前，需要<br>
+注册/登陆GitHub账号</p>
+</li>
+<li>
+<p>创建Repository<br>
+点击&quot;New repository&quot;按钮<br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643495783857.jpg" alt="" title="创建新仓库" loading="lazy"><br>
+填写相关信息，创建一个存储图片的仓库<br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643495978703.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>生成一个Token用于操作GitHub repository</p>
+</li>
+</ol>
+<p>回到主页，点击&quot;Settings&quot;按钮<br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643496066151.png" alt="" loading="lazy"></p>
+<p>进入页面后，点击&quot;Developer settings&quot;按钮，点击&quot;Personal access tokens&quot;按钮</p>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643496066152.png" alt="" loading="lazy"></p>
+<p>填写描述，选择&quot;repo&quot;权限，然后点击&quot;Generate token&quot;按钮</p>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643496066153.png" alt="" loading="lazy"></p>
+<p><em><strong>注：创建成功后，会生成一串token，这串token之后不会再显示，所以第一次看到的时候，可以建个文本文件好好保存，忘记了只有重新生成，每次都不一样。</strong></em></p>
+<h2 id="四-配置picgo">四、配置PicGo</h2>
+<ol>
+<li>
+<p>下载安装并运行PicGo<br>
+PicGo项目下载地址：<a href="https://github.com/Molunerfinn/PicGo">https://github.com/Molunerfinn/PicGo</a><br>
+PicGo蓝奏云下载地址：<a href="https://www.lanzous.com/b04abbw8h">https://www.lanzous.com/b04abbw8h</a></p>
+</li>
+<li>
+<p>配置图床<br>
+之后按照这个配置格式配置即可！<br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643496386382.jpg" alt="" loading="lazy"><br>
+第一行：设定仓库名按照“账户名/仓库名的格式填写”，比如我的是：SNGSUN/Blog-images<br>
+第二行：统一填写 master<br>
+第三行：将之前的Token粘贴在这里<br>
+第四行：留空<br>
+第五行：自定义域名的作用是在上传图片后成功后，PicGo会将“自定义域名+上传的图片名”生成的访问链接，放到剪切板上<br>
+自定义域名：https://raw.githubusercontent.com/账户名/仓库名/master<br>
+比如我的是：https://raw.githubusercontent.com/SNGSUN/Blog-images/master</p>
+</li>
+<li>
+<p>上传图片<br>
+点击确定后就配置完成了，我们截图后点击剪切板图片上传，如果上传成功，拿到的外链放到Markdown中正常访问，就OK啦。<br>
+在这里插入图片描述</p>
+</li>
+</ol>
+<p><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643496743893.jpg" alt="" loading="lazy"></p>
+<ol start="4">
+<li>快捷键及相关配置<br>
+支持快捷键command+shift+p（macOS）或者control+shift+p（windows\linux）用以支持快捷上传剪贴板里的图片（第一张）。</li>
+</ol>
+<p>PicGo支持自定义快捷键，使用方法见配置手册。</p>
+<p><em><strong>注：可以将快捷键设置为ctrl+shift+c</strong></em></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【随笔】《关于我最近迷上了IU这档事》]]></title>
+        <id>https://blog.evanfu.gq/4</id>
+        <link href="https://blog.evanfu.gq/4"/>
+        <updated>2022-01-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#起因
+
+昨天我半夜上p站到过来的b站，b站给我推了IU唱歌的video，然后👴就无法自拔，深陷其中
+
+
+
+罪魁祸首👇
+
+BGM：blueming---iu
+
+
+
+[视频下载]
+
+我的第N边了，越看越上头😍
+
+...]]></summary>
+        <content type="html"><![CDATA[<h2 id="起因">#起因</h2>
+<blockquote>
+<p>昨天我半夜上p站到过来的b站，b站给我推了IU唱歌的video，然后👴就无法自拔，深陷其中</p>
+</blockquote>
+<hr>
+<h2 id="img-srchttpscdnjsdelivrnetghefu00imgblog_img1643506363485jpg-width-150-height-150-altlove-aligncenter"><img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643506363485.jpg" width = "150" height = "150" alt="love" align=center /></h2>
+<h2 id="罪魁祸首">罪魁祸首👇</h2>
+<blockquote>
+<p>BGM：blueming---iu</p>
+</blockquote>
+<hr>
+<iframe src="//player.bilibili.com/player.html?aid=200468782&bvid=BV15z411z73U&cid=182575712&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+<h2 id=""><a href="http://www.ibibo.cn/down.php/46e112ff2b42b013be6c1b7a4d7059a2.mp4">[<strong>视频下载</strong>]</a></h2>
+<hr>
+<p><em><strong>我的第N边了，越看越上头😍</strong></em><br>
+<img src="https://cdn.jsdelivr.net/gh/efu00/img/blog_img/1643506438712.gif" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【MUSIC】送给我孩子的歌（草泥马）]]></title>
+        <id>https://blog.evanfu.gq/2</id>
+        <link href="https://blog.evanfu.gq/2"/>
+        <updated>2021-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[
+
+
+歌手：网络歌手（未知）
+资源来自evanfu's blog
+
+
+
+送给我孩子的歌，一听就很温馨
+
+
+listen TO music
+
+      
+
+
+# 原视频
+
+全损画质(｡･ω･｡)ﾉ♡
+
+
+    
+
+...]]></summary>
+        <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/efu00/img@master/blog_img/1643952991430.png" alt="" loading="lazy"></p>
+<hr>
+<blockquote>
+<p>歌手：网络歌手（未知）<br>
+资源来自evanfu's blog</p>
+</blockquote>
+<hr>
+<blockquote>
+<p>送给我孩子的歌，一听就很温馨</p>
+</blockquote>
+<hr>
+<p><em>listen TO music</em></p>
+<audio id="audio" controls="" preload="none">
+      <source id="mp3" src="https://cdn.jsdelivr.net/gh/efu00/download@2.1.3/videoplayback.mp3">
+</audio>
+<hr>
+<h2 id="原视频"># 原视频</h2>
+<blockquote>
+<p>全损画质(｡･ω･｡)ﾉ♡</p>
+</blockquote>
+<video controls="controls" name="media">
+    <source src="https://cdn.jsdelivr.net/gh/efu00/download@main/videoplayback.mp4" type="video/mp4">
+</video>
+]]></content>
+    </entry>
+</feed>
